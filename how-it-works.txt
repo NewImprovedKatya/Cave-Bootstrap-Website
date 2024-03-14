@@ -24,4 +24,4 @@ Instruction: Join the club.
 ---
 
 Title: Step Six
-Instruction: Ready, Set Go
+Instruction: Ready, Set Go!
