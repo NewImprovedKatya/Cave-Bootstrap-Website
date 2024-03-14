@@ -1,0 +1,27 @@
+Title: Step One
+Instruction: Join the club.
+
+---
+
+Title: Step Two
+Instruction: Ready, Set Go
+
+---
+
+Title: Step Three
+Instruction: Join the club.
+
+---
+
+Title: Step Four
+Instruction: Ready, Set Go
+
+---
+
+Title: Step Five
+Instruction: Join the club.
+
+---
+
+Title: Step Six
+Instruction: Ready, Set Go

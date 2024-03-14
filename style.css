@@ -1,0 +1,13 @@
+body {
+    background-image: url("CAVE_Fun_Banner.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 15% center;
+}
+.hero {
+    height: 75svh;
+}
+.sidekick {
+    min-height: 50dvh;
+}
